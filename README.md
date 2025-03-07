@@ -14,7 +14,7 @@ Ili kupata **Session ID** kwa bot yako, tafadhali **bonyeza** kwenye link ya chi
 1. **Tengeneza App ya Heroku**  
    Nenda kwenye Heroku, bonyeza **Deploy to Heroku** chini ili ku-deploy bot yako kwa urahisi:
 
-   [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/username/repository-name)
+   [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/termuxboy-255/reply-BOT)
 
    **Mambo Muhimu ya Kuweka:**
    - Kwenye `.env` file yako, hakikisha umeweka `SESSION_ID` na `APP_NAME` kama ilivyoelezwa hapo juu.
