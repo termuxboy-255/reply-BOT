@@ -1,0 +1,16 @@
+{
+    "name": "whatsapp-bot",
+    "version": "1.0.0",
+    "description": "WhatsApp bot ya kuuza simu",
+    "main": "index.js",
+    "dependencies": {
+      "@whiskeysockets/baileys": "^6.5.0",
+      "fs": "^0.0.1-security"
+    },
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Kadili",
+    "license": "MIT"
+  }
+  
