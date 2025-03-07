@@ -1,0 +1,25 @@
+{
+    "android": {
+      "Samsung": {
+        "Galaxy S24 Ultra": 3500000,
+        "Galaxy S24+": 3000000,
+        "Galaxy S23 Ultra": 3200000,
+        "Galaxy A54": 1500000
+      },
+      "Tecno": {
+        "Camon 20 Premier": 1200000,
+        "Spark 10 Pro": 750000
+      },
+      "Infinix": {
+        "Zero Ultra": 1350000,
+        "Note 30 Pro": 850000
+      }
+    },
+    "iphone": {
+      "iPhone 15 Pro Max": 4700000,
+      "iPhone 15 Pro": 4300000,
+      "iPhone 14 Pro Max": 4000000,
+      "iPhone 13": 2800000
+    }
+  }
+  
