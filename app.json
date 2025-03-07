@@ -1,0 +1,26 @@
+{
+    "name": "whatsapp-bot",
+    "description": "WhatsApp bot for Heroku deployment",
+    "repository": "https://github.com/username/repository-name",
+    "keywords": ["whatsapp", "bot", "nodejs"],
+    "env": {
+      "SESSION_ID": {
+        "description": "The session ID for the WhatsApp bot",
+        "required": true
+      },
+      "APP_NAME": {
+        "description": "The name of the Heroku app",
+        "required": true
+      }
+    },
+    "scripts": {
+      "postdeploy": "echo 'App deployed successfully'"
+    },
+    "formation": {
+      "worker": {
+        "quantity": 1,
+        "size": "free"
+      }
+    }
+  }
+  
